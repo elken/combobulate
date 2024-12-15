@@ -67,6 +67,8 @@
 (require 'combobulate-yaml)
 (require 'combobulate-json)
 (require 'combobulate-go)
+;;;###autoload
+(require 'combobulate-ruby)
 ;;; end language support
 
 

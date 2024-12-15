@@ -291,7 +291,8 @@ use the name of the face to highlight with. See
     (css . combobulate-css-setup)
     (yaml . combobulate-yaml-setup)
     (toml . combobulate-toml-setup)
-    (html . combobulate-html-setup))
+    (html . combobulate-html-setup)
+    (ruby . combobulate-ruby-setup))
   "Alist of setup functions to call when \\[combobulate-mode] is enabled.
 
 Because tree-sitter-enabled modes are different from the ordinary
